@@ -46,4 +46,4 @@ Each target is processed independently.
 ### ▶️ Single Target
 
 ```bash
-python network_scanner.py google.com
+python main.py google.com
